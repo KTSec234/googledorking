@@ -33,7 +33,7 @@ cd google-dorking-tool
 
   - **Run The Tool**
     ```bash
-    python googledork.py <site-url>
+    python googledorking.py <site-url>
  
 ## Acknowledgements
 
